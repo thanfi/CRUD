@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
     return 
     MaterialApp(
         
-        title: "Management Keuangan",
+        title: "Management Keuang",
         //homepage nama di aplikasi
         // home: MyHomePage(),
         // diganti menu home bya
